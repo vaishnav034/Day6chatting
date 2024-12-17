@@ -4,7 +4,7 @@ body {
 .mainbackground {
     background-color: #f2f3f5;
     width: 100vw;
-    /*height: ; */
+    height: 100vh;
     
     /*position:; */
 }
@@ -124,6 +124,7 @@ body {
 .sides {
     margin-left: 80px;
     font-size: 12px;
+    
 }
 .image {
 height: 100%;
